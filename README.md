@@ -5,7 +5,8 @@
 <br/>
 
 <p align='center'>
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxxn-hx&layout=compact&theme=react&hide_border=true&bg_color=2E3440&title_color=F85D7F&icon_color=F8D866" alt="ikhbaldwiyan's github stats"/>
+  <img align="center" height="140px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxxn-hx&layout=compact&theme=radical&hide=css,scss)
+/>
   </a>
   <a href="https://github.com/Hxxn-hx/">
   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=Hxxn-hx&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=2E3440&title_color=F85D7F&icon_color=F8D866" alt="Hxxn-hx's github stats" />
